@@ -1,0 +1,22 @@
+{
+  "name": "desafio-01-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuN4t1k0/desafio-01-node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LuN4t1k0/desafio-01-node/issues"
+  },
+  "homepage": "https://github.com/LuN4t1k0/desafio-01-node#readme",
+  "dependencies": {
+    "uid": "^2.0.1"
+  }
+}
